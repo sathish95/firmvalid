@@ -1,0 +1,9 @@
+{
+  "name": "firmware-validator-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "@neondatabase/serverless": "^0.10.4"
+  }
+}
